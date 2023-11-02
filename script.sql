@@ -8,3 +8,6 @@ SHOW TABLES FROM information_schema;
 
 -- Criaçao de nova base de dados
 CREATE DATABASE banco_de_teste;
+
+DROP DATABASE banco_de_teste
+
